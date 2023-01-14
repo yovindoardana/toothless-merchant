@@ -1,0 +1,22 @@
+.card-header h4 {
+	text-transform: none !important;
+	margin-left: 20px !important;
+}
+
+.t-pointer {
+	cursor: pointer;
+}
+
+.table-responsive {
+	overflow: hidden !important;
+}
+
+.modal-open .modal {
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-color: #00000078;
+}
+
+.option {
+	background-color: #1f2251;
+}
